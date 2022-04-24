@@ -27,7 +27,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma)&nbsp;
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)&nbsp;
